@@ -19,13 +19,7 @@
 
 ## 🚀 Live Demo
 
-> Coming Soon... (or add your deployment link here)
-
----
-
-## 📸 Screenshots
-
-> _(Add a few screenshots or screen recordings here to showcase your app)_
+> https://flick-rosy.vercel.app/
 
 ---
 
