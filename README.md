@@ -95,8 +95,6 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 - [ ] Add light/dark mode toggle
 - [ ] Implement user login/bookmarking
-- [ ] Add pagination
-- [ ] Deploy to Vercel / Netlify
 
 ---
 
@@ -108,7 +106,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📄 License
 
-MIT License © [Your Name](https://github.com/your-username)
+MIT License © [Yasar Shaikh](https://github.com/Yasar1121)
 
 ---
 
